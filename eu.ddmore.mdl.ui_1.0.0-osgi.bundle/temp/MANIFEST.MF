@@ -28,6 +28,6 @@ Export-Package: eu.ddmore.mdl.ui.contentassist,eu.ddmore.mdl.ui.conten
  tassist.antlr,eu.ddmore.mdl.ui.internal,eu.ddmore.mdl.ui.preference;x
  -friends:="eu.ddmore.mdl.tests",eu.ddmore.mdl.ui.quickfix
 Bundle-Name: eu.ddmore.mdl.ui
-Bundle-Version: 1.0.0.201509102335
+Bundle-Version: 1.0.0.201509110000
 Bundle-Activator: eu.ddmore.mdl.ui.internal.MdlActivator
 

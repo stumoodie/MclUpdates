@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="eu.ddmore.mdl.small.sdk.source"
-      label="Source for MCL IDE xx"
+      label="Source for MCL IDE"
       version="1.0.1">
 
    <description>
@@ -20,14 +20,14 @@
          id="eu.ddmore.mdl.source"
          download-size="0"
          install-size="0"
-         version="1.1.0.201509102335"
+         version="1.1.0.201509110000"
          unpack="false"/>
 
    <plugin
          id="eu.ddmore.mdl.ui.source"
          download-size="0"
          install-size="0"
-         version="1.0.0.201509102335"
+         version="1.0.0.201509110000"
          unpack="false"/>
 
 </feature>
