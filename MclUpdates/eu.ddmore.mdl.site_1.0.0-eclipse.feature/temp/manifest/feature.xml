@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- contextQualifierLength=12 -->
+<feature
+      id="eu.ddmore.mdl.site"
+      label="eu.ddmore.mdl.site Feature"
+      version="1.0.0.201509101757-1--cEADoU">
+
+   <includes
+         id="eu.ddmore.mdl.small.sdk"
+         version="1.0.0"/>
+
+</feature>

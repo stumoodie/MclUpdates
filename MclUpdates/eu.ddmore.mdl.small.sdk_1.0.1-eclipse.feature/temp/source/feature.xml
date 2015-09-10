@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="eu.ddmore.mdl.small.sdk.source"
+      label="Source for MCL IDE"
+      version="1.0.1">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseUrl">
+      %license
+   </license>
+
+   <plugin
+         id="eu.ddmore.mdl.ui.source"
+         download-size="0"
+         install-size="0"
+         version="1.1.0.201509101707"
+         unpack="false"/>
+
+   <plugin
+         id="eu.ddmore.mdl.source"
+         download-size="0"
+         install-size="0"
+         version="1.1.0.201509101707"
+         unpack="false"/>
+
+</feature>
