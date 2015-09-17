@@ -17,14 +17,14 @@
    </license>
 
    <plugin
-         id="eu.ddmore.mdl.ui.source"
+         id="eu.ddmore.mdl.source"
          download-size="0"
          install-size="0"
-         version="1.3.0.201509171335"
+         version="1.3.1.201509171346"
          unpack="false"/>
 
    <plugin
-         id="eu.ddmore.mdl.source"
+         id="eu.ddmore.mdl.ui.source"
          download-size="0"
          install-size="0"
          version="1.3.0.201509171335"
