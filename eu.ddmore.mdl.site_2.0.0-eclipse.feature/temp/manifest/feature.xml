@@ -3,7 +3,7 @@
 <feature
       id="eu.ddmore.mdl.site"
       label="eu.ddmore.mdl.site Feature"
-      version="2.0.0.201509171619-2--cEADoU31261_28272_">
+      version="2.0.0.201509171624-2--cEADoU31261_282735">
 
    <copyright>
       Copyright Leiden University 2013-2015 and Pfizer Inc 2015
@@ -37,6 +37,6 @@ It is your obligation to read and accept all such terms and conditions prior to 
 
    <includes
          id="eu.ddmore.mdl.small.sdk"
-         version="2.0.0.201509171619"/>
+         version="2.0.0.201509171624"/>
 
 </feature>
