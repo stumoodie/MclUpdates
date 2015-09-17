@@ -3,7 +3,6 @@
 <feature
       id="eu.ddmore.mdl.site"
       label="eu.ddmore.mdl.site Feature"
-<<<<<<< HEAD
       version="2.0.0.201509171639-2--cEADoU31261_28274_">
 
    <copyright>
@@ -35,9 +34,6 @@ The Abouts, Feature Licenses, and Feature Update Licenses may refer to the Eclip
  
 It is your obligation to read and accept all such terms and conditions prior to use of the Content. If no About, Feature License or Feature Update License is provided, please contact Leiden University to determine what terms and conditions govern that particular Content.
    </license>
-=======
-      version="2.0.0.201509110013-2--cEADoU">
->>>>>>> parent of 80fb59d... Added some missign features required by UCs and also added catCov for data cat covariates.
 
    <includes
          id="eu.ddmore.mdl.small.sdk"

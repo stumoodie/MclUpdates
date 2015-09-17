@@ -37,18 +37,14 @@
          id="eu.ddmore.mdl"
          download-size="0"
          install-size="0"
-<<<<<<< HEAD
          version="1.3.2.201509171639"
-=======
-         version="1.1.0.201509110000"
->>>>>>> parent of 80fb59d... Added some missign features required by UCs and also added catCov for data cat covariates.
          unpack="false"/>
 
    <plugin
          id="eu.ddmore.mdl.ui"
          download-size="0"
          install-size="0"
-         version="1.0.0.201509110000"
+         version="1.3.0.201509171335"
          unpack="false"/>
 
 </feature>
