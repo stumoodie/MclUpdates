@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: eu.ddmore.mdl.ui.source
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Leiden University
+Eclipse-SourceBundle: eu.ddmore.mdl.ui;version="1.3.0.201509172020";ro
+ ots="."
+Bundle-Version: 1.3.0.201509172020
+Bundle-Name: eu.ddmore.mdl.ui Source
+
