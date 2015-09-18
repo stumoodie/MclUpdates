@@ -2,7 +2,7 @@
 <feature
       id="eu.ddmore.mdl.small.sdk"
       label="MCL IDE"
-      version="2.0.0.201509181947">
+      version="2.0.0.201509182128">
 
    <description>
       %description
@@ -37,7 +37,7 @@
          id="eu.ddmore.mdl"
          download-size="0"
          install-size="0"
-         version="1.3.1.201509181947"
+         version="1.3.2.201509182128"
          unpack="false"/>
 
    <plugin
