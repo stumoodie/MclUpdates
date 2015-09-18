@@ -2,7 +2,7 @@
 <feature
       id="eu.ddmore.mdl.small.sdk.source"
       label="Source for MCL IDE"
-      version="2.0.0.201509172048">
+      version="2.0.0.201509181925">
 
    <description>
       %description
