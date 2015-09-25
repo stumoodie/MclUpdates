@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-SymbolicName: eu.ddmore.mdl.source
 Bundle-ManifestVersion: 2
 Bundle-Vendor: Leiden University
-Eclipse-SourceBundle: eu.ddmore.mdl;version="1.3.5.201509240936";roots
+Eclipse-SourceBundle: eu.ddmore.mdl;version="1.3.5.201509251532";roots
  ="."
-Bundle-Version: 1.3.5.201509240936
+Bundle-Version: 1.3.5.201509251532
 Bundle-Name: eu.ddmore.mdl Source
 
